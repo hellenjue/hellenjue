@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Hellen Wamucii Njue 👋
 
-<!--
-**hellenjue/hellenjue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my developer profile for IYF Weekend Academy Season 12!
 
-Here are some ideas to get you started:
+Aspiring Software Developer who's Passionate about learning web foundations, mastering modern development tools, and building clean, collaborative projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Links
+- 🌐 [Live Portfolio Pages Site](https://github.io)
+- 📝 [Markdown Practice Exercises](./markdown-practice.md)
+
+## 🛠️ Setup Verification
+Here is my local Git configuration output:
+
+```text
+core.editor="C:\Users\Admin\AppData\Local\Programs\Microsoft VS Code\bin\code" --wait
+user.name=Hellen Wamucii Njue
+user.email=hellenjue@gmail.com
+```
