@@ -4,11 +4,6 @@ Welcome to my developer profile for IYF Weekend Academy Season 12!
 
 ## 📘 About Me
 - 🔭 I’m currently learning **programming and software development foundational mechanics**.
-- 🌱 I’m deeply interested in **automation, mobile app development, web development, and breaking down coding barriers**.
-- 🚀 My ultimate goal is **to understand programming languages clearly and easily, and to speak computer language like a native developer**.
-
-## 📘 About Me
-- 🔭 I’m currently learning **programming and software development foundational mechanics**.
 - 🌱 I’m deeply interested in **automation, Python scripting, mobile app development, web development, and breaking down coding barriers**.
 - 🚀 My ultimate goal is **to understand programming languages clearly and easily, master the VS Code environment, and speak computer language like a native developer**.
 
@@ -27,8 +22,7 @@ Welcome to my developer profile for IYF Weekend Academy Season 12!
 - 📊 [Client News Dashboard](https://github.com) — A clean web layout tracking live news data streams.
 - 💇‍♀️ [WorkTap Beauty Salon Hub](https://github.com) — A client workflow application 
 - 💼 [LeaveDesk Management System](https://github.com) — A custom enterprise leave-tracking platform built for Ipsos Kenya, featuring automated day-count deductions, a dynamic monthly calendar layout, Kenyan public holiday mapping, and direct cloud syncing via Google Apps Script Web URLs.
-🎓 [Bright Future Academy Engine](https://github.com) — An active architectural blueprint and Proof of Concept (PoC) for a data-driven Node.js application, designing background calculation engines for dynamic Competency-Based Curriculum (CBC) mathematics exams.
-
+- 🎓 [Bright Future Academy Engine](https://github.com) — An active architectural blueprint and Proof of Concept (PoC) for a data-driven Node.js application, designing background calculation engines for dynamic Competency-Based Curriculum (CBC) mathematics exams.
 
 ---
 
