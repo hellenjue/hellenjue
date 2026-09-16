@@ -26,7 +26,7 @@ Welcome to my developer profile for IYF Weekend Academy Season 12!
 
 ---
 
-## ⚙️ Core Git Setup Verification
+## ⚙️ Setup
 Here is my local Git configuration output:
 
 ```text
