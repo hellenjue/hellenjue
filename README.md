@@ -34,3 +34,8 @@ core.editor="C:\Users\Admin\AppData\Local\Programs\Microsoft VS Code\bin\code" -
 user.name=Hellen Wamucii Njue
 user.email=hellenjue@gmail.com
 ```
+## 🔗 Links
+
+*   🌐 [Live GitHub Pages Site](https://github.io)
+*   📝 [Markdown Practice Exercises](./markdown-practice.md)
+*   👥 [Team Collaboration Repository](https://github.com)
